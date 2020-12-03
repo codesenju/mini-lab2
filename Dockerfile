@@ -1,4 +1,3 @@
-  
 FROM centos:7
 ARG SERVICE=devops
 ARG HOME=/opt/${SERVICE}
